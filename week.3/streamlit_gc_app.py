@@ -1,5 +1,3 @@
-pip install streamlit
-
 # Importing necesary libraries
 import streamlit as st
 from Bio import SeqIO
