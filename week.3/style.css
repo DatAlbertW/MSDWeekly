@@ -1,0 +1,48 @@
+/* Main body styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f3f4f6;
+    color: #333;
+}
+
+/* Title styling */
+h1 {
+    color: #4a4e69;
+}
+
+/* Subheader styling */
+h2 {
+    color: #22223b;
+}
+
+/* Button styling */
+button {
+    background-color: #4a4e69;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #2b2d42;
+}
+
+/* File uploader styling */
+.stFileUploader {
+    background-color: #9a8c98;
+    color: white;
+}
+
+/* Text area styling */
+.stTextArea {
+    background-color: #c9ada7;
+    color: #222;
+}
