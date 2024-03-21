@@ -25,9 +25,6 @@ def compute_gc(file):
 st.title('GC Content Calculator')
 st.write('Upload a sequence in FASTA format or enter it manually. Download FASTA files from [NCBI Genome](https://www.ncbi.nlm.nih.gov/datasets/genome/).')
 
-# Display the GIF
-st.image("week.3/250px-CD28_structure.gif", caption="CD28 Structure")
-
 # Manual input textbox
 st.subheader('Enter Sequence')
 sequence_input = st.text_area("", height=150)
