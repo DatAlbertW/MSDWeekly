@@ -3,11 +3,6 @@ import streamlit as st
 from Bio import SeqIO
 from Bio.Seq import Seq
 import io
-#----------------------------
-from PIL import Image
-import requests
-from io import BytesIO
-import streamlit as st
 
 # Computing GC sequence content (%)
 def compute_gc(file_content):
@@ -54,23 +49,3 @@ if uploaded_file is not None:
     file_content = uploaded_file.getvalue().decode("utf-8")
     gc_content = compute_gc(file_content)
     st.write(gc_content)
-
-######################
-
-# URL of the image
-image_url = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CD28_structure.gif/250px-CD28_structure.gif"
-
-# Fetch the image
-response = requests.get(image_url)
-if response.status_code == 200:
-    image = Image.open(BytesIO(response.content))
-    st.image(image, caption='CD28 Structure')
-else:
-    st.error("Failed to load image.")
-    
-# Displaying the GIF
-st.subheader('CD28 Structure')
-gif_url = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CD28_structure.gif/250px-CD28_structure.gif"
-response = requests.get(gif_url)
-image = Image.open(BytesIO(response.content))
-st.image(image, caption='CD28 Molecular Structure')
