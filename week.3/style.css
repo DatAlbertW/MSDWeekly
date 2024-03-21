@@ -1,48 +1,26 @@
-/* Main body styling */
-body {
-    font-family: 'Arial', sans-serif;
-    background-color: #f3f4f6;
-    color: #333;
+/* Add some padding and a max-width to the main content */
+.main {
+    padding: 0 1rem 1rem;
+    max-width: 800px;
+    margin: auto;
 }
 
-/* Title styling */
+/* Style headers */
 h1 {
-    color: #4a4e69;
+    color: #0c5460;
+    font-family: Arial, sans-serif;
 }
 
-/* Subheader styling */
-h2 {
-    color: #22223b;
-}
-
-/* Button styling */
-button {
-    background-color: #4a4e69;
+/* Style buttons */
+.stButton>button {
+    background-color: #0c5460;
     color: white;
     border: none;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    transition-duration: 0.4s;
-    cursor: pointer;
+    padding: 8px 16px;
     border-radius: 5px;
+    cursor: pointer;
 }
 
-button:hover {
-    background-color: #2b2d42;
-}
-
-/* File uploader styling */
-.stFileUploader {
-    background-color: #9a8c98;
-    color: white;
-}
-
-/* Text area styling */
-.stTextArea {
-    background-color: #c9ada7;
-    color: #222;
+.stButton>button:hover {
+    background-color: #0d6efd;
 }
