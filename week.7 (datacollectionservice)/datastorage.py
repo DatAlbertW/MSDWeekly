@@ -1,41 +1,21 @@
 import idgenerator
 
-class DataPoint(object):
-  def __init__(self, patient_id, experiment_id, data):
-    self.id = idgenerator.create_unique_identifier()
-    self.patient_id = patient_id
-    self.experiment_id = experiment_id
-    self.data = data
+class DataPoint:
+    """Class to represent a data point."""
+    def __init__(self, identifier, data):
+        self.id = identifier
+        self.data = data
 
-class DataStorage(object):
-  def __new__(cls):
-    if not hasattr(cls, 'instance'):
-      cls.instance = super(DataStorage, cls).__new__(cls)
-      cls.instance.experiments = {}
-      cls.instance.patients = {}
-      cls.instance.data = {}
-    return cls.instance
-    
-  def create_patient(self, name):
-    id = len(self.patients)
-    self.patients[id] = name
-    return id
-    
-  def create_experiment(self, name):
-    id = len(self.experiments)
-    self.experiments[id] = name
-    return id
-    
-  def get_patients(self):
-    return self.patients
-    
-  def get_experiments(self):
-    return self.experiments
-    
-  def add_data(self, patient_id, experiment_id, data):
-    dObj = Data(patient_id, experiment_id, data)
-    self.data.append(dObj)
+class DataStorage:
+    """Class to handle storage and retrieval of data points."""
+    def __init__(self):
+        self.storage = {}
 
-  def store_data(self, filename):
-    # store data into file
-    self.data.clear()
+    def store_data(self, identifier, data):
+        """Store data with a unique identifier."""
+        if identifier not in self.storage:
+            self.storage[identifier] = DataPoint(identifier, data)
+
+    def retrieve_data(self, identifier):
+        """Retrieve data by its unique identifier."""
+        return self.storage.get(identifier, None)
