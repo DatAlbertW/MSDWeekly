@@ -3,10 +3,18 @@ from flask import Flask, request
 import datastorage
 import logging
 
+#Welcomoe to the App!: http://127.0.0.1:5000/
+
 # Setup logging configuration
 logging.basicConfig(filename='datacollection.log', level=logging.INFO, format='%(asctime)s:%(levelname)s:%(message)s')
 
+# Initialize Flask app
 app = Flask(__name__)
+
+@app.route('/')
+def home():
+    """Route to welcome users to the Flask App."""
+    return 'Welcome to the App!'
 
 @app.route('/data', methods=['POST'])
 def add_data():
