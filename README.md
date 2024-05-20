@@ -21,7 +21,7 @@ The name of each directory corresponds to the week of the assignment (e.g., week
 |      4     | Development: Image Analysis (Python)              |    -     |
 |      5     | Development: Testing (Python, Java)               |    -     |
 |      6     | Development: REST Service (Python, Java)          |    -     |
-|      7     | Development: Android Sensor Overview (Java)       |    -     |
+|      7     | Development: Android Sensor Overview (Java)       |    ✅     |
 |      8     | Development: Scientific Question                  |    -     |
 |      9     | Development: Data Collection (Java)               |    -     |
 |     10     | Development: Data Analysis (Python, R)            |    -     |
