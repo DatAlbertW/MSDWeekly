@@ -45,5 +45,4 @@ Exercise done in collaboration with: prerna.duhan@students.fhnw.ch
    - **Rotation Vector:** track movement patterns.
    - **Motion Detect:** detect involuntary movements.
   
-   ![Android Sensors](week.8%20(android%20sensor)/Android%20Sensors.jpeg)
-   ![alt text](https://github.com/[DatAlbertW]/[MSDWeekly]/blob/[main]/Android%20Sensors.8/image.jpg?raw=true)
+![Android Sensors](https://raw.githubusercontent.com/[username]/[repository]/[branch]/week.8%20(android%20sensor)/Android%20Sensors.jpeg)
