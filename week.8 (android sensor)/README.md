@@ -14,30 +14,6 @@ Exercise done in collaboration with: prerna.duhan@students.fhnw.ch
 3. **List all the available sensors:**
 <img src="https://github.com/DatAlbertW/MSDWeekly/assets/144963224/da243097-e4f0-45ab-aed9-3bcc8088717a" width="30%">
 
-   - icm4x6xa Accelerometer Non-wakeup
-   - ak0991x Magnetometer Non-wakeup
-   - Rotation Vector Non-wakeup
-   - icm4x6xa Gyroscope Non-wakeup
-   - stk33c02 Ambient Light Sensor Non-wakeup
-   - stk33c02 Proximity Sensor Wakeup
-   - gravity Non-wakeup
-   - linear_acceleration
-   - Rotation Vector Non-wakeup
-   - ak0991x Magnetometer-Uncalibrated Non-wakeup
-   - Game Rotation Vector Non-wakeup
-   - icm4x6xa Gyroscope-Uncalibrated Non-wakeup
-   - sns_smd Wakeup
-   - pedometer Non-wakeup
-   - pedometer Non-wakeup
-   - sns_geomag_rv Non-wakeup
-   - pick_up_motion Wakeup
-   - device_orient Non-wakeup
-   - stationary_detect
-   - motion_detect
-   - icm4x6xa Accelerometer-Uncalibrated Non-wakeup
-   - sensor_logger Non-wakeup
-   - sx933x SAR Sensor Wakeup
-   - lux_aod Wakeup
 
 5. **Which sensor could be used to measure Parkinson’s disease?**
 
