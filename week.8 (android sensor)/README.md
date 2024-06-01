@@ -13,6 +13,7 @@ Exercise done in collaboration with: prerna.duhan@students.fhnw.ch
 
 3. **List all the available sensors:**
 ![Android Sensors](https://github.com/DatAlbertW/MSDWeekly/assets/144963224/da243097-e4f0-45ab-aed9-3bcc8088717a)
+<img src="https://github.com/DatAlbertW/MSDWeekly/assets/144963224/da243097-e4f0-45ab-aed9-3bcc8088717a" width="30%">
 
    - icm4x6xa Accelerometer Non-wakeup
    - ak0991x Magnetometer Non-wakeup
