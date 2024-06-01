@@ -12,6 +12,7 @@ Exercise done in collaboration with: prerna.duhan@students.fhnw.ch
    - 25 sensors
 
 3. **List all the available sensors:**
+![Android Sensors](week.8%20(android%20sensor)/Android%20Sensors.jpeg)
    - icm4x6xa Accelerometer Non-wakeup
    - ak0991x Magnetometer Non-wakeup
    - Rotation Vector Non-wakeup
@@ -37,7 +38,7 @@ Exercise done in collaboration with: prerna.duhan@students.fhnw.ch
    - sx933x SAR Sensor Wakeup
    - lux_aod Wakeup
 
-4. **Which sensor could be used to measure Parkinson’s disease?**
+5. **Which sensor could be used to measure Parkinson’s disease?**
 
    - **Accelerometer:** track involuntary movements, tremors, and gait patterns.
    - **Gyroscope:** detect tremors and gait balance.
