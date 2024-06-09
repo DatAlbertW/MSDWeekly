@@ -1,5 +1,10 @@
 ## Ecercise 1: Gene Analyzer
 
+# Usage:
+- Download the following file: https://ftp.ncbi.nlm.nih.gov/gene/DATA/gene_info.gz.
+- Download [gene_analyzer.ipynb](week.1/gene_analyzer.ipynb).
+- Ensure to modify the file_path accordingly before running the code.
+
 **1. Number of Genes Listed:** 52,966,526
 
 **2. Number of Listed Genes for Homo Sapiens:** 8
@@ -19,9 +24,4 @@
 - scRNA
   
 **4. Most Frecuent Gene Type:** protein-coding
-
-# Usage:
-- download the following file: https://ftp.ncbi.nlm.nih.gov/gene/DATA/gene_info.gz
-- download gene_analyzer.ipynb (week.1/gene_analyzer.ipynb) within this repository
-- [Download gene_analyzer.ipynb](https://github.com/DatAlbertW/MSDWeekly/raw/main/week.1/gene_analyzer.ipynb)
 
