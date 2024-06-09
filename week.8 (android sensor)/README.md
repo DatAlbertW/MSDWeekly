@@ -1,5 +1,4 @@
-# Android Sensor Overview
-Exercise done in collaboration with: prerna.duhan@students.fhnw.ch
+# Exercise 8: Android Sensor Overview
 
 ## Answers to the Exercise Questions:
 
