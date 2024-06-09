@@ -4,7 +4,7 @@
 This repository contains the source code for the "GC Content Calculator," a Streamlit-powered web aplication. The App calculates the GC content (guanine-cytosine content) in DNA sequences.
 
 ## Interactive App
-Perform real-time GC content analysis with the App: [Launch GC-Content Calculator](https://msdweekly-ymuqfp6jk5tuk9vs9inhet.streamlit.app/#or-upload-a-file). 
+Perform real-time GC content analysis with the App: [Open GC-Content Calculator](https://msdweekly-iiyjclktunffc8ou42ticm.streamlit.app/). 
 
 ## Usage:
 1. **Manual Input**: Coopy and Paste your DNA sequence in the provided text area.
