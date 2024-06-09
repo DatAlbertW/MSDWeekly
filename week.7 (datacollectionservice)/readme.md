@@ -1,2 +1,2 @@
-- Initial score:Your code has been rated at 0.48/10 
-- Final score: Your code has been rated at 7.74/10 (previous run: 5.48/10, +2.26)
+**- Initial Pylint Rating:** 0.48/10 
+**- Final Pylint Ratinng:** 7.74/10
