@@ -32,12 +32,10 @@ This document provides an estimation of cost and time to implement the described
   - Duration = 337 workdays / 3 = 112.33 workdays (~ 16.04 weeks, 3.69 months)
 
 ## 5. Calculate Cost
-- Based on Swiss developer average salary: [Source](https://ch.talent.com/en/salary?job=software+developer)
+- [Based on Swiss developer average salary:](https://ch.talent.com/en/salary?job=software+developer)
   - Average salary: 430.8 CHF/day (8 hours)
   - Cost = 112.33 workdays * 430.8 CHF/day = 48,392 CHF
 
 ## 6. Conclusion
 - **Estimated implementation duration (3 Developers):** 16.04 weeks or 3.69 months.
 - **Projected total cost:** 48,392 CHF.
-
-For more details on salary data, visit [Swiss Developer Salary](https://ch.talent.com/en/salary?job=software+developer).
