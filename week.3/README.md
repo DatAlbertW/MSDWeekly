@@ -13,4 +13,4 @@ Perform real-time GC content analysis with the App: [Launch GC-Content Calculato
 
 ## Features
 - **Sequence Inpu**: A user can input DNA sequences manually or upload them in the following supported formats: FA, FASTA, TXT.
-- **GC Content Calculation**: The app computes the percentage of guanine and cytosine (GC-content) nucleotide bases in the provided DNA sequence..
+- **GC Content Calculation**: The app computes the percentage of guanine and cytosine (GC-content) nucleotide bases in the provided DNA sequence.
