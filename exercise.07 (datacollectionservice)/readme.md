@@ -7,5 +7,5 @@
 
 **- Final Pylint Ratinng:** 7.74/10
 
-<img src="https://github.com/DatAlbertW/MSDWeekly/blob/main/week.7%20(datacollectionservice)/Pylint.png" width="80%">
+<img src="https://github.com/DatAlbertW/MSDWeekly/blob/main/exercise.07%20(datacollectionservice)/Pylint.png" width="80%">
 
