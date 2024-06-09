@@ -1,11 +1,11 @@
-## Ecercise 2: Computing GC Content
+# Ecercise 2: Computing GC Content
 
-### Usage:
+## Usage:
 - Download the following file: https://www.ncbi.nlm.nih.gov/gene?Db=gene&Cmd=DetailsSearch&Term=940.
 - Download [gene_analyzer.ipynb](cd28_sequence_calculator.ipynb).
 - Ensure to modify the "cd_28" filepath accordingly before running the code.
 
-### Questions Answered within gene_analyzer:
+## Questions Answered within gene_analyzer:
 **1. What is the GC-content value of the Human Gene CD28?:** 39.97%.
 
 **2. What is a fasta file?:** Text file representing nucleotides where single letters represent aminoacid pairs.
