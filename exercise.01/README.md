@@ -2,7 +2,7 @@
 
 ## Usage:
 - Download the following file: https://ftp.ncbi.nlm.nih.gov/gene/DATA/gene_info.gz.
-- Download [gene_analyzer.ipynb](exercise.01/gene_analyzer.ipynb).
+- Download [gene_analyzer.ipynb]([exercise.01/gene_analyzer.ipynb](https://github.com/DatAlbertW/MSDWeekly/blob/main/exercise.01/gene_analyzer.ipynb)).
 - Ensure to modify the "file_path" accordingly before running the code.
 
 ## Questions Answered within gene_analyzer:
