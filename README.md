@@ -16,10 +16,10 @@ The name of each directory corresponds to the week of the assignment (e.g., week
 
 |  Session   | Exercise                                          |  Status  |
 |:----------:|---------------------------------------------------|:--------:|
-|      1     | Development: Gene Analyzer (Python, Java)         |    ✅    |
-|      2     | Development: Computing GC Content (Python, Java)  |    ✅    |
-|      3     | Development: Streamlit App (Python)               |    ✅    |
-|      4     | Development: Image Analysis (Python)              |    ✅    |
+|      1     | Gene Analyzer (Python, Java)         |    ✅    |
+|      2     | Computing GC Content (Python, Java)  |    ✅    |
+|      3     | Streamlit App (Python)               |    ✅    |
+|      4     | Image Analysis (Python)              |    ✅    |
 |      5     | Development: Testing (Python, Java)               |    -     |
 |      6     | Development: REST Service (Python, Java)          |    -     |
 |      7     | Development: Android Sensor Overview (Java)       |    ✅     |
