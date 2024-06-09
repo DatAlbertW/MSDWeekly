@@ -20,7 +20,7 @@ The name of each directory corresponds to the week of the assignment (e.g., week
 |      2     | Computing GC Content (FASTA file)                 |    ✅    |
 |      3     | Streamlit App (GC Content)                        |    ✅    |
 |      4     | Cost and Time Estimation                          |    ✅    |
-|      5     | Development: Testing (Python, Java)               |    -     |
+|      5     | Software Requirements Specification               |    ✅    |
 |      6     | Development: REST Service (Python, Java)          |    -     |
 |      7     | Development: Android Sensor Overview (Java)       |    ✅     |
 |      8     | Development: Scientific Question                  |    -     |
