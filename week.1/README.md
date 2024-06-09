@@ -5,6 +5,7 @@
 - Download [gene_analyzer.ipynb](week.1/gene_analyzer.ipynb).
 - Ensure to modify the "file_path" accordingly before running the code.
 
+### Questions Answered within gene_analyzer:
 **1. Number of Genes Listed:** 52,966,526
 
 **2. Number of Listed Genes for Homo Sapiens:** 8
