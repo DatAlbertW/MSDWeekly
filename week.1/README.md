@@ -19,3 +19,9 @@
 - scRNA
   
 **4. Most Frecuent Gene Type:** protein-coding
+
+# Usage:
+- download the following file: https://ftp.ncbi.nlm.nih.gov/gene/DATA/gene_info.gz
+- download gene_analyzer.ipynb (week.1/gene_analyzer.ipynb) within this repository
+- [Download gene_analyzer.ipynb](https://github.com/DatAlbertW/MSDWeekly/raw/main/week.1/gene_analyzer.ipynb)
+
