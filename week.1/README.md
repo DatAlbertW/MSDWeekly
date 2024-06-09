@@ -3,7 +3,7 @@
 # Usage:
 - Download the following file: https://ftp.ncbi.nlm.nih.gov/gene/DATA/gene_info.gz.
 - Download [gene_analyzer.ipynb](week.1/gene_analyzer.ipynb).
-- Ensure to modify the file_path accordingly before running the code.
+- Ensure to modify the "file_path" accordingly before running the code.
 
 **1. Number of Genes Listed:** 52,966,526
 
