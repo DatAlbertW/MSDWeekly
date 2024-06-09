@@ -22,8 +22,8 @@ The name of each directory corresponds to the week of the assignment (e.g., week
 |      4     | Cost and Time Estimation                          |    ✅    |
 |      5     | Software Requirements Specification               |    ✅    |
 |      6     | Design Patterns                                   |    -     |
-|      7     | Data Collection Service                           |    ✅     |
-|      8     | Android Sensor Overview                           |    -     |
+|      7     | Data Collection Service                           |    ✅    |
+|      8     | Android Sensor Overview                           |    ✅    |
 |      9     | Development: Data Collection (Java)               |    -     |
 |     10     | Development: Data Analysis (Python, R)            |    -     |
 
