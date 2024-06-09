@@ -19,4 +19,4 @@
    - NO: Varied access levels are defined, ranging from full system control for PMU MoICT to limited viewing and evaluation access for the employees.
 
 7. **Is there a requirement on how the software should be designed? If yes, what does that look like?**
-   - The software uses a 3-tier architecture with XML support.
+   - The software uses a 3-tier architecture with XML suport.
