@@ -1,0 +1,2699 @@
+[
+    {
+        "accuracy": 3,
+        "data": [
+            -4.9051185,
+            1.1807523,
+            0.8316655
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34804624015000
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            6.426337,
+            9.091084,
+            10.09186
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34805405635680
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.596216,
+            -0.06004572,
+            1.4463348
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34804985094000
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.7666986,
+            0.78984874,
+            0.34788775
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34806429070349
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.533279,
+            -0.112179,
+            0.36255,
+            0.756033,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34805165600666
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.16759412,
+            4.8123455,
+            8.734347
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34804804062849
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.9449186,
+            9.113499,
+            2.151162
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34806068066049
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.2242639,
+            -1.5894713,
+            -1.1872166
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34805165600666
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.9157498,
+            -9.881968,
+            -2.4449883
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34806248565049
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.08140286,
+            6.8285627,
+            7.0057335
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34804503287817
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.545878,
+            6.94109,
+            1.8195933
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34805906951011
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.7763334,
+            -0.7281514,
+            0.19272798
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34804624015000
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            3.797607,
+            4.214979,
+            -8.886249
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34806248565049
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.45548,
+            -0.140818,
+            0.349561,
+            0.806544,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34804985094000
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.47405192,
+            7.1230493,
+            7.252336
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34804603544617
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.31757358,
+            -0.35002577,
+            0.1432479
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34804443546000
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            3.655494,
+            -7.389026,
+            -1.6539177
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34805707071782
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.366499,
+            -0.194161,
+            0.066797,
+            0.907478,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34804443546000
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.542704,
+            -0.056308,
+            0.418593,
+            0.726003,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34805346099416
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.0397162,
+            0.20943451,
+            2.1689272
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34805165600666
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.5577963,
+            -0.49480084,
+            -0.04734206
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34804804563000
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.0606314,
+            7.2331824,
+            4.225766
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34805305373247
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.4173675,
+            6.7447653,
+            5.3800707
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34805505896113
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.12928689,
+            6.28029,
+            1.6519991
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34805606157313
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.4030021,
+            6.8477163,
+            6.974609
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34805004586515
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.7372365,
+            -6.1586776,
+            2.9958954
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34804443546000
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.96447986,
+            -1.3371841,
+            0.27152961
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34805526579616
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.8645406,
+            -0.86895895,
+            2.266603
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34804804563000
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            3.478775,
+            6.3377514,
+            16.25244
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34805706421079
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.1043816,
+            6.464787,
+            0.301462
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34805887568924
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.4496775,
+            -4.797778,
+            18.518112
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34806068066049
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.40508002,
+            -1.1343768,
+            -0.34300083
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34804985094000
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.49255,
+            0.022356,
+            0.530501,
+            0.689537,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34805526579616
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.5298948,
+            6.9123597,
+            5.990592
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34805205110181
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.2399445,
+            -0.14913988,
+            0.34151745
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34805526579616
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.1631064,
+            -0.9236083,
+            12.844803
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34805707071782
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.232523,
+            -3.339625,
+            21.976383
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34806429070349
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.382092,
+            0.393699,
+            0.814947,
+            0.186726,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34807151119966
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.7541735,
+            6.1797338,
+            6.7950435
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34804904324249
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.508134,
+            0.217109,
+            0.697236,
+            0.456644,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34806068066049
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.4157495,
+            7.319374,
+            6.1510034
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34805104848048
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.554613,
+            2.7222073,
+            22.336105
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34806007217377
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.4796166,
+            6.5580177,
+            7.496545
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34806308023876
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.65527,
+            0.101309,
+            0.516583,
+            0.541755,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34805887568924
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.367825,
+            -0.19324,
+            0.142224,
+            0.898406,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34804624015000
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            8.585907,
+            11.399094,
+            -4.235343
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34806207753976
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.8422797,
+            10.580186,
+            1.774869
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34806609578439
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.868894,
+            -0.48938274,
+            0.23680592
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34806609578439
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.2266076,
+            7.3241625,
+            6.112696
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34807110244140
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.550575,
+            0.273881,
+            0.697877,
+            0.367181,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34806429070349
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.3215994,
+            4.3646297,
+            7.75033
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34804703802483
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.379208,
+            -0.162598,
+            0.256776,
+            0.873972,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34804804563000
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.1967506,
+            -0.032262325,
+            0.25796056
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34805346099416
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            7.867646,
+            9.893141,
+            1.436521
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34805806685545
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.438825,
+            0.265146,
+            0.77701,
+            0.365218,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34806248565049
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.0939696,
+            3.19116,
+            0.9960158
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34805346099416
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.3311762,
+            4.3742065,
+            24.366388
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34806408295442
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.570275,
+            0.032331,
+            0.539488,
+            0.618621,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34805707071782
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.3049874,
+            1.9040494,
+            0.25270665
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34805887568924
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            3.3327289,
+            9.675268,
+            3.0119057
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34806107485443
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.402645,
+            0.319415,
+            0.813749,
+            0.271409,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34806609578439
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.328052,
+            0.346389,
+            0.856899,
+            0.19524,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34806790090105
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.446071,
+            0.375119,
+            0.774018,
+            0.247389,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34806970603181
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.8571242,
+            6.751948,
+            4.8626237
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34806608845475
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.8938135,
+            3.8139634,
+            13.197139
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34806709120975
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.1801457,
+            4.0571537,
+            -5.8687396
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34806970603181
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.5570073,
+            8.41113,
+            3.3566709
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34807009961474
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.4098142,
+            1.4153748,
+            0.21594086
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34807151119966
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.4388258,
+            -0.3679843,
+            2.209516
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34807151119966
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            6.13185,
+            11.916241,
+            -2.7246015
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34806909678941
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.7392097,
+            -8.554557,
+            -2.5696046
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34806790090105
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.4037786,
+            3.7062242,
+            20.310612
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34806809398808
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            5.96665,
+            11.985673,
+            -4.474763
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34806508570142
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.2932038,
+            -3.2638745,
+            7.8545437
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34806790090105
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.85834205,
+            -0.42210788,
+            0.25625798
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34806970603181
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.006341,
+            6.7447653,
+            6.3377514
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34807310812106
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.19871874,
+            6.5316815,
+            3.928885
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34807210526906
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.7561748,
+            0.1826487,
+            0.54458636
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34807331636632
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.357037,
+            0.359631,
+            0.849511,
+            0.146698,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34807331636632
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.9752164,
+            6.7591305,
+            8.114249
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34807411098072
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.34382,
+            0.303027,
+            0.879325,
+            0.12942,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34807512152757
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.9077663,
+            -0.2745819,
+            1.5679913
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34807331636632
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.1045034,
+            6.5675945,
+            7.5635824
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34807511383038
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.32856914,
+            0.4343252,
+            0.3222314
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34807512152757
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.0559866,
+            0.4687128,
+            1.876462
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34807512152757
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.0901382,
+            6.1055136,
+            7.666533
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34807611668104
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.334712,
+            0.2734,
+            0.891249,
+            0.137458,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34807692665168
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.20945042,
+            0.2828306,
+            -0.024740042
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34807692665168
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.0236514,
+            0.42400503,
+            1.5232487
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34807692665168
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.0638018,
+            5.89243,
+            7.8460984
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34807812235870
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.051236324,
+            -0.03359759,
+            0.07727446
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34807873176056
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.4700398,
+            5.7631426,
+            7.8101854
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34807711952937
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.0988126,
+            0.24680042,
+            1.7105813
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34807873176056
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.335228,
+            0.273492,
+            0.89201,
+            0.130924,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34807873176056
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.8962077,
+            5.5237226,
+            7.8939824
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34807912516836
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.291251,
+            5.7846904,
+            7.692869
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34808012796969
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.22059871,
+            -0.15149458,
+            0.101098195
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34808053681529
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.337141,
+            0.273522,
+            0.890855,
+            0.13378,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34808053681529
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.8817961,
+            0.12093496,
+            1.5829015
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34808053681529
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.4516625,
+            6.0815716,
+            7.142203
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34808113077102
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.17600554,
+            0.03726278,
+            0.03634648
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34808234183729
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.7571378,
+            0.35256338,
+            1.4943037
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34808234183729
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.4540567,
+            6.048053,
+            7.5420346
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34808213356602
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.332763,
+            0.284465,
+            0.892347,
+            0.109831,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34808234183729
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.0925324,
+            5.9977746,
+            7.4558434
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34808313634602
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.1332338,
+            6.1773396,
+            6.3377514
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34808413913335
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.299617,
+            0.321066,
+            0.897563,
+            0.039053,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34808414683205
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.31833714,
+            -0.28221974,
+            0.00580322
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34808414683205
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.8267759,
+            5.6889224,
+            9.419088
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34808514194101
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.8953526,
+            0.29574442,
+            0.3135991
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34808414683205
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.3959035,
+            -1.7825048,
+            -1.1658363
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34808595184750
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.300026,
+            -0.340213,
+            -0.8912,
+            0.000282,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34808595184750
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.4193716,
+            -0.2561283,
+            3.6480803
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34808595184750
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.0223241,
+            6.37127,
+            4.9132013
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34808614475634
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            3.6942532,
+            6.1533976,
+            9.95539
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34808714754667
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.5113435,
+            -2.3243423,
+            -1.1615603
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34808775683489
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.271933,
+            -0.362511,
+            -0.891366,
+            0.010208,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34808775683489
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.388637,
+            5.372888,
+            1.5945383
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34808815032467
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.1324298,
+            -0.12980366,
+            4.1765623
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34808775683489
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.9935064,
+            -0.44523478,
+            -3.8569055
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34808956181030
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.151611,
+            6.244377,
+            1.99437
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34808915309300
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.211695,
+            -0.396047,
+            -0.891673,
+            0.057012,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34808956181030
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.4611133,
+            1.5784758,
+            -0.027794369
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34808956181030
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.3725243,
+            -0.97310835,
+            0.6765333
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34809136677230
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.451407,
+            -0.59024334,
+            -5.9365625
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34809136677230
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.23185,
+            -0.362602,
+            -0.900328,
+            0.064608,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34809136677230
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            6.0336876,
+            3.8546648,
+            24.608503
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34809015586166
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.89782566,
+            5.5189342,
+            0.23702596
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34809115861832
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            5.490204,
+            5.2531776,
+            17.006613
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34809316412164
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.9249382,
+            6.962638,
+            0.7757214
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34809216136798
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.4263076,
+            1.0140363,
+            0.8414669
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34809317175268
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            3.205836,
+            3.3638535,
+            14.6169
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34809416686697
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.274189,
+            -0.326748,
+            -0.902782,
+            0.055135,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34809317175268
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.28192854,
+            -0.23589516,
+            10.768482
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34809317175268
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.6610053,
+            -2.6340508,
+            -1.0161743
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34809497671934
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.1451824,
+            -2.1631985,
+            8.53508
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34809497671934
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.284711,
+            -0.329929,
+            -0.898572,
+            0.051504,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34809497671934
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.4141969,
+            4.8243165,
+            3.1148565
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34809516958497
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            4.663905,
+            6.20607,
+            2.231396
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34809617229330
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.3609178,
+            3.1172454,
+            0.8695667
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34809678168398
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.339917,
+            -0.302628,
+            -0.89041,
+            0.006429,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34809678168398
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.3105235,
+            0.96387243,
+            -3.5128047
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34809678168398
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            5.3537345,
+            7.937078,
+            0.7445967
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34809717500896
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            6.0911484,
+            4.4460325,
+            20.62904
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34809817771096
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            4.025678,
+            -2.1630738,
+            -0.97524637
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34809858664604
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.14228153,
+            -0.54480076,
+            14.639641
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34809858664604
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.334845,
+            -0.287236,
+            -0.897372,
+            0.009843,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34809858664604
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.19188805,
+            0.69027776,
+            0.0143553335
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34810039164037
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.4915876,
+            4.5441947,
+            3.58412
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34810018309296
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.5476055,
+            -0.9906182,
+            -1.8070071
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34810039164037
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.0087352,
+            4.096479,
+            5.5117517
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34809918039996
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.365738,
+            0.302266,
+            0.879114,
+            0.045034,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34810039164037
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            7.2236056,
+            5.293879,
+            12.902652
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34810118579296
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            3.7253778,
+            6.347328,
+            1.5873557
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34810218849329
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.352208,
+            0.300921,
+            0.885523,
+            0.03526,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34810219661603
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.1923462,
+            -2.2046127,
+            0.4156938
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34810219661603
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.1836746,
+            0.8773489,
+            -4.010204
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34810219661603
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.04268421,
+            -0.3286455,
+            -0.23487769
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34810400157903
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            4.675876,
+            5.803844,
+            4.3622355
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34810319116995
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.9286661,
+            0.04953003,
+            -0.0466156
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34810400157903
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.3104045,
+            3.727772,
+            10.568306
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34810519651827
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.43054,
+            0.299744,
+            0.846334,
+            0.092221,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34810400157903
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.354026,
+            0.289002,
+            0.888155,
+            0.048197,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34810580654103
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.58341,
+            -1.6412036,
+            4.8580217
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34810580654103
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            3.5194764,
+            4.3239284,
+            7.9083476
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34810419384461
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            6.9458785,
+            7.609072,
+            4.3837833
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34810619919327
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.821304,
+            -0.9438889,
+            -0.14502573
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34810761149769
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.0072404,
+            2.8435776,
+            0.9049969
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34810761149769
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.2535162,
+            2.272203,
+            -1.4442029
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34810941646969
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.194155,
+            -0.289771,
+            -0.934225,
+            0.074558,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34810941646969
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.242616,
+            -0.265418,
+            -0.932796,
+            0.024122,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34810761149769
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.7732655,
+            4.718934,
+            1.271516
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34810580654103
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.7429788,
+            3.7972038,
+            7.1254435
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34810720184893
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.2114661,
+            2.882619,
+            12.531551
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34810820449926
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            3.727772,
+            7.2978263,
+            5.976227
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34810920716592
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.8882488,
+            5.1167083,
+            3.9839516
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34811020983225
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.2981515,
+            -5.022534,
+            -1.271516
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34810941646969
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.12449849,
+            3.311181,
+            8.494926
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34811121249258
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.192753,
+            -0.333896,
+            -0.918914,
+            0.083398,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34811122139835
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.619341,
+            1.9914207,
+            0.11759156
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34811122139835
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.12896892,
+            0.9126327,
+            0.14813483
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34811302630335
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.8956342,
+            -2.3913174,
+            1.6036024
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34811122139835
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.135051,
+            -0.348094,
+            -0.917134,
+            0.139484,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34811302630335
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.1811178,
+            4.405331,
+            12.237064
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34811221516024
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.2004781,
+            -1.4867272,
+            5.164669
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34811302630335
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.0199299,
+            6.754342,
+            5.4758387
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34811422050890
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.41729733,
+            -0.014660766,
+            -0.13897185
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34811483121001
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.7741034,
+            5.6530094,
+            6.524499
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34811321783490
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.074144,
+            -0.388545,
+            -0.899978,
+            0.183232,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34811483121001
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.6851726,
+            0.16238213,
+            -1.2620249
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34811483121001
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.4405331,
+            6.704064,
+            6.2755017
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34811522317823
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.22984336,
+            6.0672064,
+            7.1254435
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34811622583589
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.025546,
+            -0.387245,
+            -0.88998,
+            0.239421,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34811663610567
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.081779584,
+            0.24678956,
+            0.12492194
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34811663610567
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.0345125,
+            -0.57236814,
+            0.27277756
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34811663610567
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.50038815,
+            6.500557,
+            7.4582376
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34811722851322
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.04070143,
+            6.344934,
+            6.6130843
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34811823119255
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.049403727,
+            -0.025045475,
+            0.067500606
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Gyroscope",
+        "sensorType": 4,
+        "timestamp": 34811844097367
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.0021,
+            -0.380281,
+            -0.886573,
+            0.26338,
+            -1.0
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Samsung Rotation Vector",
+        "sensorType": 11,
+        "timestamp": 34811844097367
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.9602516,
+            -0.25678062,
+            -0.3571291
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "Linear Acceleration Sensor",
+        "sensorType": 10,
+        "timestamp": 34811844097367
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.45489833,
+            6.476615,
+            6.7830725
+        ],
+        "experimentId": 2,
+        "patientId": 1,
+        "sensorId": "LSM6DSO Accelerometer",
+        "sensorType": 1,
+        "timestamp": 34811923387421
+    }
+]
