@@ -1,5 +1,8 @@
 # Exercise 5: Software Requirements Specification
 
+## Exercise File:
+To review the Original Document for this exercise please click on this [link](exercise.05/Exercise 5 Answers.pdf)
+
 1. **Who created the final Version?**
    - Osamah Yacoub, Ahmad Arrabi on 31 December 2002 (Version 1.0)
 
