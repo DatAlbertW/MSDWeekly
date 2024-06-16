@@ -7,4 +7,4 @@ Selected Sensors:
 - Linear Acceleration Sensor
 - Samsung Rotation Vector
 
-<img src="https://github.com/DatAlbertW/MSDWeekly/blob/main/exercise.09/selected_sensors.jpeg" width="80%">
+<img src="https://github.com/DatAlbertW/MSDWeekly/blob/main/exercise.09/selected_sensors.jpeg" width="40%">
